@@ -2,7 +2,7 @@ password=input()
 
 def ask_password(password):
     correct_password="230911"
-    while (True):
+    while (True):ж
         if (password == correct_password):
             print("доступ разрешен")
         else:
